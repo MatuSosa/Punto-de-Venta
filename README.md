@@ -1,7 +1,7 @@
 # Sistema-de-venta-Php-y-Mysql
 <table>
   <tr>
-    <td><img src="src/images/captura1.png" alt="Descripción de la imagen 1" width="500" height="300"/><br>Panel de Administración</td>
+    <td><img src="src/images/captura1.png" alt="Descripción de la imagen 1" width="400" height="200"/><br>Panel de Administración</td>
     <td><img src="src/images/captura2.png" alt="Descripción de la imagen 2" width="300" height="500"/><br>Pestaña de Usuarios - ABM y Permisos</td>
     <td><img src="src/images/captura3.png" alt="Descripción de la imagen 3" width="300" height="500"/><br>Configuración datos de empresa para comprobantes</td>
   </tr>
